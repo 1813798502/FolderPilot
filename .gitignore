@@ -1,0 +1,6 @@
+build/
+dist/
+release/
+*.spec
+tools/innosetup-*.exe
+__pycache__/
